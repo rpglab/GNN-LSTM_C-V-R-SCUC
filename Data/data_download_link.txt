@@ -1,0 +1,1 @@
+This folder only contains the data for IEEE 24-bus test system. The data for other systems can be found at: https://figshare.com/articles/dataset/Spatio-Temporal_Deep_Learning-Assisted_Reduced_Security-Constrained_Unit_Commitment/24116394
